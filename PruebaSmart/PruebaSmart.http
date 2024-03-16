@@ -1,0 +1,6 @@
+@PruebaSmart_HostAddress = http://localhost:5129
+
+GET {{PruebaSmart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

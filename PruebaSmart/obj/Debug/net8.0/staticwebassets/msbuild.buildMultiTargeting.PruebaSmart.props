@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PruebaSmart.props" />
+</Project>
